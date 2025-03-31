@@ -6,7 +6,7 @@
     "revision": "0",
     "image": "flecs.azurecr.io/com.vnodeautomation.vnode",
     "multiInstance": false,
-    "editor": ":8005",
+    "editor": ":8003",
     "env": [
         "ADMIN_PASSWORD=admin",
         "USER_PASSWORD=vnode"

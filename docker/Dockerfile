@@ -2,7 +2,7 @@ ARG ARCH
 ARG VERSION
 ARG VARIANT
 
-FROM scratch:${VERSION}
+FROM vesterbusiness/vnode_1_21_11_mongo:${VERSION}
 
 ARG ARCH
 ARG VERSION
